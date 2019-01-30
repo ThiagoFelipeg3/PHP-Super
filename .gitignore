@@ -1,0 +1,4 @@
+composer.json
+composer.lock
+composer.phar
+projeto_relatorio_pdf/vendor/*
