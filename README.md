@@ -21,6 +21,7 @@ php -r "if (arquivo_hahle ('sha384', 'compositer-setup.php') === '48e3236262b34d
 ```
 php composer-setup.php
 ```
+```
 php -r "unlink ('composer-setup.php');"
 ```
 
@@ -28,3 +29,10 @@ php -r "unlink ('composer-setup.php');"
 
 Este projeto foi utilizado o composer para a criação do PDF.
 O código mostra uma forma de criação de um relatório em pdf simples, utilizando biblioteca Mpdf\Mpdf do composer. Para executar e necessário intalar o composer no diretório raiz do projeto.
+
+
+## Projeto Criação de Gráficos
+
+Para este projeto foi utilizado a biblioteca Chart.js podendo ser encontrada em www.chartjs.org;
+É preciso fazer o download da biblioteca para rodar o projeto.
+No código mostra como é simples e facíl a criação de gráficos e como adicionar informações diretas do php.
