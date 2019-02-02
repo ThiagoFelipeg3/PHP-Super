@@ -36,3 +36,9 @@ O código mostra uma forma de criação de um relatório em pdf simples, utiliza
 Para este projeto foi utilizado a biblioteca Chart.js podendo ser encontrada em www.chartjs.org;
 É preciso fazer o download da biblioteca para rodar o projeto.
 No código mostra como é simples e facíl a criação de gráficos e como adicionar informações diretas do php.
+
+## Projeto Upload de Foto com AJAX / Projeto Login em AJAX ##
+
+Projeto simples para envio de fotos com ajax e projeto login com ajax;
+Este segundo projeto foi utilizado banco de dados se se encontra na raíz do projeto, basta carregalos e fazer os testes.
+
