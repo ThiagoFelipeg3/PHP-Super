@@ -44,7 +44,7 @@ $mpdf = new \Mpdf\Mpdf();
 $mpdf->WriteHTML($html);
 
 /*********************************
- * Parametros pra função Output();
+ * Parametros para função Output();
  * I = Abra no browser
  * D = faz Download
  * F = Salvar no servidor
